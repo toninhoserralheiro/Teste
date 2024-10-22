@@ -1,0 +1,35 @@
+body{
+    background-color: midnightblue;
+    color: blanchedalmond;
+}
+nav{
+    text-align: center;
+}
+nav a{
+   font-size: 24;
+   font-family: 'Times New Roman', Times, serif;
+   color: beige;
+   text-decoration: wavy;
+   margin-right: 24px;
+}
+a:hover{
+    background-color: navajowhite;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+h1{
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#cabadopc{
+    text-align: center;
+}
+#cabadopc img{
+    border-radius: 10%;
+}
+
+.video iframe{
+    border: solid 7px lightseagreen;
+    border-radius: 16px
+}
